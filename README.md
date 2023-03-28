@@ -23,7 +23,6 @@
 <p aling="center"> COMO EXECUTAR O PROJETO</p>
 Clone o Projeto:
 
-   "git clone https://github.com/queimarosca/projetoqea.git"
 
    Entre no diretório do projeto:
 
